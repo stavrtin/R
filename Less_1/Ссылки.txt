@@ -1,0 +1,4 @@
+Ссылка https://cran.r-project.org/mirrors.html
+
+https://www.r-project.org/
+
